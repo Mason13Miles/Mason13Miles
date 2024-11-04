@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**Mason13Miles/Mason13Miles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 👋 Hi, I’m Mason
 I’m a new programmer excited to explore full-stack development. I’m currently building skills in HTML, CSS, JavaScript, Swift and Java, and I’m particularly interested in building and shipping apps fast.
 
@@ -20,4 +13,3 @@ Expanding my skills in backend development and cloud computing with AWS and dabb
 
 📫 Let’s Connect
 LinkedIn | masonbmiles.com(coming soon)
--->
