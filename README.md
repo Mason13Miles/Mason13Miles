@@ -8,6 +8,7 @@ Frameworks: Spring, Dagger, React, TailwindCSS
 Databases: DynamoDB, Firebase
 </br>
 <h2>📈 Projects</h2>
+masonbmiles.com - Personal website where I document my learning and projects!
 FamLinked: Platform that enables parents to better manage their families, backend built with Java. Frontends built with Swift and JavaScript. 
 <!-- </br> -->
 <!-- Project Name: Another project that showcases your skills. -->
