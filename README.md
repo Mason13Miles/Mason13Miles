@@ -1,21 +1,19 @@
 <h1>👋 Hi, I’m Mason</h1>
-</br>
-<h2>I’m a new programmer excited to explore full-stack development. I’m currently building skills in HTML, CSS, JavaScript, Swift and Java, and I’m particularly interested in building and shipping apps fast.</h2>
-</br>
+
+<h2>I’m a new programmer excited to explore full-stack development.<br> I’m currently building skills in HTML, CSS, JavaScript, Swift and Java, and I’m particularly interested in building and shipping apps fast.</h2>
+
 <h2>🔧 Technologies & Tools</h2>
-Languages: Swift, JavaScript, Java, TypeScript
-Frameworks: Spring, Dagger, React, TailwindCSS
+Languages: Swift, JavaScript, Java, TypeScript<br>
+Frameworks: Spring, Dagger, React, TailwindCSS<br>
 Databases: DynamoDB, Firebase
 </br>
 <h2>📈 Projects</h2>
-masonbmiles.com - Personal website where I document my learning and projects!
-FamLinked: Platform that enables parents to better manage their families, backend built with Java. Frontends built with Swift and JavaScript. 
-<!-- </br> -->
-<!-- Project Name: Another project that showcases your skills. -->
+<b>masonbmiles.com</b> - Personal website where I document my learning and projects!<br>
+<b>FamLinked</b> - Platform that enables parents to better manage their families, backend built with Java, frontends built with Swift and Kotlin and React/TS. 
 </br>
 <h2>🚀 Currently Exploring</h2>
 Expanding my skills in backend development and cloud computing with AWS and dabbling in React! 
 
 <h2>📫 Let’s Connect</h2>
-masonbmiles@icloud.com
-or visit masonbmiles.com and leave a comment or feedback! 
+Email me at <b>masonbmiles@icloud.com</b><br>
+or visit <b>masonbmiles.com</b> and leave a comment or feedback! 
