@@ -16,4 +16,5 @@ FamLinked: Platform that enables parents to better manage their families, backen
 Expanding my skills in backend development and cloud computing with AWS and dabbling in React! 
 
 <h2>📫 Let’s Connect</h2>
-masonbmiles.com
+masonbmiles@icloud.com
+or visit masonbmiles.com and leave a comment or feedback! 
